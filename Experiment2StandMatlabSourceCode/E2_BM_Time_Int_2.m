@@ -46,7 +46,8 @@ white=WhiteIndex(whichscreen);
 gray=round((black+white)/2);
 
 % Screen('Resolution',whichscreen,[],[],60);
-[windowPtr, rect]=Screen('OpenWindow',whichscreen,gray,[0 0 1024 768]);
+% [windowPtr, rect]=Screen('OpenWindow',whichscreen,gray,[0 0 1024 768]);
+[windowPtr, rect]=Screen('OpenWindow',whichscreen,gray);
 Screen('BlendFunction', windowPtr, GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 [centerx,centery]=RectCenter(rect);
 ST.centerx=centerx;
@@ -234,8 +235,8 @@ tend=clock;
 Priority(0);
 ShowCursor;
 % ListenChar;
- TimingRest=[onsetrest',continueoffset'];
-    Timing=[tTrial,fixonset',fixoffset',vbl_1',vbl_2',blankonset',blankoffset',vbl_3',vbl_4',responseB',responseEnd'];
+TimingRest=[onsetrest',continueoffset'];
+Timing=[tTrial,fixonset',fixoffset',vbl_1',vbl_2',blankonset',blankoffset',vbl_3',vbl_4',responseB',responseEnd'];
 
 
 Screen('DrawTexture',windowPtr,thankswin);
