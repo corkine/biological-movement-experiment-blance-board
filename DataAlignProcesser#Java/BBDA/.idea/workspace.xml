@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BBDA" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8ef12bb-5564-415f-b54a-3ad35f19363e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BBDA$Excel2CSV.coverage" NAME="Excel2CSV Coverage Results" MODIFIED="1536460106334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mazhangjing/lab/TestDebug.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mazhangjing/lab/BBDA/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>updateMessage</find>
+      <find>ProgressIndicatorSkin</find>
+      <find>createDefaultSkin</find>
+      <find>pauseTimeline</find>
+      <find>getSkinnable</find>
+      <find>getSkinnable()</find>
+      <find>progressColor</find>
+      <find>IndeterminateSpinner</find>
+      <find>cssMe</find>
+      <find>cssMetaData</find>
+      <find>In</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>System.out.println</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/mazhangjing/lab/BBDA/Excel2CSV.py" />
+        <option value="$PROJECT_DIR$/src/Excel2CSV.py" />
+        <option value="$PROJECT_DIR$/src/com/mazhangjing/lab/BBDA/DataProcess.java" />
+        <option value="$PROJECT_DIR$/src/com/mazhangjing/lab/Batch.java" />
+        <option value="$PROJECT_DIR$/src/com/mazhangjing/lab/BBDA/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/mazhangjing/lab/TestDebug.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="948" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BBDA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBDA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBDA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBDA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBDA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BBDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="BBDA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BBDA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="BehaviorSkinBase&#9;PSI&#9;JAVA://com.sun.javafx.scene.control.skin.BehaviorSkinBase&#10;PseudoClassState&#9;PSI&#9;JAVA://com.sun.javafx.css.PseudoClassState&#10;PseudoClass&#9;PSI&#9;JAVA://javafx.css.PseudoClass&#10;ProgressIndicatorSkin&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/com/sun/javafx/scene/control/skin/ProgressIndicatorSkin.java&#10;ProgressIndicator&#9;PSI&#9;JAVA://javafx.scene.control.ProgressIndicator" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15285996" />
+    <property name="project.structure.side.proportion" value="0.17762399" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestDebug">
+    <configuration name="Batch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mazhangjing.lab.Batch" />
+      <module name="BBDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mazhangjing.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mazhangjing.lab.BBDA.Main" />
+      <module name="BBDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mazhangjing.lab.BBDA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDebug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mazhangjing.lab.TestDebug" />
+      <module name="BBDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mazhangjing.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Batch.parseInputData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BBDA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mazhangjing.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mazhangjing.lab" />
+      <option name="MAIN_CLASS_NAME" value="com.mazhangjing.lab.Batch" />
+      <option name="METHOD_NAME" value="parseInputData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Excel2CSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BBDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Excel2CSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Batch" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestDebug" />
+      <item itemvalue="JUnit.Batch.parseInputData" />
+      <item itemvalue="Python.Excel2CSV" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDebug" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Batch" />
+        <item itemvalue="JUnit.Batch.parseInputData" />
+        <item itemvalue="Python.Excel2CSV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8ef12bb-5564-415f-b54a-3ad35f19363e" name="Default Changelist" comment="" />
+      <created>1536418225118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536418225118</updated>
+      <workItem from="1536418227150" duration="3322000" />
+      <workItem from="1536457910474" duration="4217000" />
+      <workItem from="1536680481998" duration="2901000" />
+      <workItem from="1537360743062" duration="103000" />
+      <workItem from="1540050624389" duration="2430000" />
+      <workItem from="1540086323461" duration="3387000" />
+      <workItem from="1540096727948" duration="46000" />
+      <workItem from="1540097161424" duration="29000" />
+      <workItem from="1540177284393" duration="21000" />
+      <workItem from="1541321385985" duration="671000" />
+      <workItem from="1542185994613" duration="1328000" />
+      <workItem from="1547460479567" duration="1003000" />
+      <workItem from="1547463457981" duration="564000" />
+      <workItem from="1547465137485" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 08m 25s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 08m 32s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 08m 36s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 08m 43s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 10m 53s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 14m 09s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 14m 18s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 16m 27s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 16m 40s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Batch_parseInputData - 2018.10.21 at 00h 21m 24s.xml">
+      <configuration name="Batch.parseInputData" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20032000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="948" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20355412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27962577" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41225627" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32938644" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27962577" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41225627" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32938644" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i == 30</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/mazhangjing/lab/BBDA/Excel2CSV.py" />
+    <entry file="file://$PROJECT_DIR$/src/Excel2CSV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/css/PseudoClass.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/com/sun/javafx/css/PseudoClassState.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/scene/control/ProgressIndicator.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/com/sun/javafx/scene/control/skin/BehaviorSkinBase.java" />
+    <entry file="uml://JAVA/com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner</OriginalElement>
+          <nodes>
+            <node x="103.0" y="320.0">com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner</node>
+            <node x="147.0" y="160.0">javafx.scene.Parent</node>
+            <node x="145.0" y="240.0">javafx.scene.layout.Region</node>
+            <node x="149.0" y="80.0">javafx.scene.Node</node>
+            <node x="131.0" y="0.0">javafx.event.EventTarget</node>
+            <node x="0.0" y="0.0">com.sun.javafx.beans.IDProperty</node>
+            <node x="268.0" y="0.0">javafx.css.Styleable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="javafx.scene.Node" target="javafx.css.Styleable">
+              <point x="27.0" y="-15.0" />
+              <point x="216.5" y="55.0" />
+              <point x="318.0" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="javafx.scene.Node" target="com.sun.javafx.beans.IDProperty">
+              <point x="-27.0" y="-15.0" />
+              <point x="162.5" y="55.0" />
+              <point x="55.5" y="55.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="javafx.scene.layout.Region" target="javafx.scene.Parent">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner" target="javafx.scene.layout.Region">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="javafx.scene.Node" target="javafx.event.EventTarget">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="javafx.scene.Parent" target="javafx.scene.Node">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-274.0" y="-40.0" />
+          <SelectedNodes>
+            <node>com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner</node>
+            <node>javafx.css.Styleable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.sun.javafx.scene.control.skin.ProgressIndicatorSkin">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.sun.javafx.scene.control.skin.ProgressIndicatorSkin</OriginalElement>
+          <nodes>
+            <node x="0.0" y="1484.0">javafx.scene.control.Control.StyleableProperties</node>
+            <node x="96.2628205128205" y="3077.5">com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner</node>
+            <node x="789.0" y="1127.0">javafx.scene.control.SkinBase</node>
+            <node x="1096.25" y="2071.0">javafx.scene.control.SkinBase.StyleableProperties</node>
+            <node x="728.7419871794872" y="0.0">javafx.scene.control.Skinnable</node>
+            <node x="79.26282051282044" y="3500.0">com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner.IndicatorPaths</node>
+            <node x="575.2628205128206" y="3130.0">com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.DeterminateIndicator</node>
+            <node x="356.2628205128205" y="1967.0">com.sun.javafx.scene.control.skin.BehaviorSkinBase</node>
+            <node x="142.75480769230774" y="121.0">javafx.scene.control.Control</node>
+            <node x="419.00000000000006" y="1150.0">com.sun.javafx.scene.control.behavior.BehaviorBase</node>
+            <node x="1212.75" y="563.5">javafx.scene.control.Skin</node>
+            <node x="305.2628205128205" y="2278.0">com.sun.javafx.scene.control.skin.ProgressIndicatorSkin</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.sun.javafx.scene.control.skin.BehaviorSkinBase" target="com.sun.javafx.scene.control.behavior.BehaviorBase">
+              <point x="0.0" y="-130.5" />
+              <point x="574.7628205128206" y="1942.0" />
+              <point x="594.0" y="1942.0" />
+              <point x="0.0" y="372.0" />
+            </edge>
+            <edge source="com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner" target="com.sun.javafx.scene.control.skin.ProgressIndicatorSkin">
+              <point x="0.0" y="-130.5" />
+              <point x="435.2628205128205" y="3001.0" />
+              <point x="440.0128205128205" y="3001.0" />
+              <point x="-134.75" y="349.0" />
+            </edge>
+            <edge source="javafx.scene.control.Control" target="javafx.scene.control.Skinnable">
+              <point x="0.0" y="-464.0" />
+              <point x="500.25480769230774" y="124.0" />
+              <point x="805.4919871794872" y="124.0" />
+              <point x="-76.75" y="49.5" />
+            </edge>
+            <edge source="com.sun.javafx.scene.control.skin.BehaviorSkinBase" target="javafx.scene.control.SkinBase">
+              <point x="145.66666666666663" y="-130.5" />
+              <point x="720.4294871794871" y="1942.0" />
+              <point x="957.75" y="1942.0" />
+              <point x="-168.75" y="395.0" />
+            </edge>
+            <edge source="com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.DeterminateIndicator" target="com.sun.javafx.scene.control.skin.ProgressIndicatorSkin">
+              <point x="0.0" y="-211.0" />
+              <point x="714.2628205128206" y="3001.0" />
+              <point x="709.5128205128206" y="3001.0" />
+              <point x="134.75" y="349.0" />
+            </edge>
+            <edge source="com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner.IndicatorPaths" target="com.sun.javafx.scene.control.skin.ProgressIndicatorSkin.IndeterminateSpinner">
+              <point x="5.6843418860808015E-14" y="-49.5" />
+              <point x="0.0" y="130.5" />
+            </edge>
+            <edge source="javafx.scene.control.Skin" target="javafx.scene.control.Skinnable">
+              <point x="0.0" y="-49.5" />
+              <point x="1295.25" y="124.0" />
+              <point x="958.9919871794872" y="124.0" />
+              <point x="76.75" y="49.5" />
+            </edge>
+            <edge source="javafx.scene.control.SkinBase" target="javafx.scene.control.Control">
+              <point x="-168.75" y="-395.0" />
+              <point x="957.75" y="1102.0" />
+              <point x="678.3798076923077" y="1102.0" />
+              <point x="178.125" y="464.0" />
+            </edge>
+            <edge source="com.sun.javafx.scene.control.skin.BehaviorSkinBase" target="javafx.scene.control.Control">
+              <point x="-145.66666666666663" y="-130.5" />
+              <point x="429.09615384615387" y="1942.0" />
+              <point x="408.50000000000006" y="1942.0" />
+              <point x="408.50000000000006" y="1102.0" />
+              <point x="440.87980769230774" y="1102.0" />
+              <point x="-59.375" y="464.0" />
+            </edge>
+            <edge source="javafx.scene.control.SkinBase.StyleableProperties" target="javafx.scene.control.SkinBase">
+              <point x="0.0" y="-26.5" />
+              <point x="168.75" y="395.0" />
+            </edge>
+            <edge source="javafx.scene.control.SkinBase" target="javafx.scene.control.Skin">
+              <point x="168.75" y="-395.0" />
+              <point x="0.0" y="49.5" />
+            </edge>
+            <edge source="com.sun.javafx.scene.control.behavior.BehaviorBase" target="javafx.scene.control.Control">
+              <point x="0.0" y="-372.0" />
+              <point x="594.0" y="1102.0" />
+              <point x="559.6298076923077" y="1102.0" />
+              <point x="59.375" y="464.0" />
+            </edge>
+            <edge source="com.sun.javafx.scene.control.skin.ProgressIndicatorSkin" target="com.sun.javafx.scene.control.skin.BehaviorSkinBase">
+              <point x="0.0" y="-349.0" />
+              <point x="0.0" y="130.5" />
+            </edge>
+            <edge source="javafx.scene.control.Control.StyleableProperties" target="javafx.scene.control.Control">
+              <point x="0.0" y="-38.0" />
+              <point x="199.0" y="1102.0" />
+              <point x="322.12980769230774" y="1102.0" />
+              <point x="-178.125" y="464.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8514506769825918" x="748.0" y="524.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/Stream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/com/sun/javafx/scene/control/skin/ProgressIndicatorSkin.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/temporal/Temporal.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/mazhangjing/lab/BBDA/DataProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="156" column="44" selection-start-line="156" selection-start-column="44" selection-end-line="156" selection-end-column="44" />
+          <folding>
+            <element signature="docComment;method#margeData#0;class#DataProcess#0" />
+            <element signature="docComment;method#pureOutData#0;class#DataProcess#0" />
+            <element signature="docComment;method#outputData#0;class#DataProcess#0" />
+            <element signature="method#outputData#0;class#DataProcess#0" />
+            <element signature="method#cook#0;class#DataProcess#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mazhangjing/lab/Batch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/scene/Node.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/event/EventType.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/stage/WindowEvent.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/beans/property/BooleanPropertyBase.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/stage/Window.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/stage/Stage.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/mazhangjing/lab/TestDebug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mazhangjing/lab/BBDA/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>BBDA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17762399" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BBDA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>unlimited</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17762399" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="BBDA.jnlp">
+  <information>
+    <title>BBDA</title>
+    <vendor>Unknown</vendor>
+    <description>BBDA</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="BBDA.jar" size="36098" download="eager" />
+    <jar href="BBDAManager.jar" size="9629" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="com.mazhangjing.lab.BBDA.Main"  name="BBDA" />
+  <update check="background"/>
+</jnlp>
